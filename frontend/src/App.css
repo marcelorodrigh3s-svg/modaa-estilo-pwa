@@ -1,0 +1,6 @@
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: 'Segoe UI', sans-serif; background: linear-gradient(135deg, #667eea 0%, #764ba2 100%); min-height: 100vh; padding: 20px; }
+.app { max-width: 1200px; margin: 0 auto; }
+.header { background: white; border-radius: 15px; padding: 20px; margin-bottom: 25px; text-align: center; }
+.header h1 { color: #667eea; }
+main { background: white; border-radius: 15px; padding: 25px; }
